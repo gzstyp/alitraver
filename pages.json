@@ -1,0 +1,54 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "飞猪旅游"
+			}
+		},
+		{
+			"path": "pages/strategy/strategy",
+			"style": {
+				"navigationBarTitleText": "攻略"
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "飞猪旅游",
+		"navigationBarBackgroundColor": "#ffd300",
+		"backgroundColor": "#ffd300"
+	},
+	"tabBar" : {
+		"color":"#999794",
+		"selectedColor":"#33312e",
+		"borderStyle":"white",
+		"backgroundColor":"#fafafa",
+		"list":[
+			{
+				"pagePath":"pages/index/index",
+				"iconPath":"./static/tab/index_normal.png",
+				"selectedIconPath":"static/tab/index_select.png",
+				"text":"首页"
+			},
+			{
+				"pagePath":"pages/strategy/strategy",
+				"iconPath":"./static/tab/gonglue_normal.png",
+				"selectedIconPath":"static/tab/gonglue_select.png",
+				"text":"攻略"
+			},
+			{
+				"pagePath":"pages/my/my",
+				"iconPath":"./static/tab/my_normal.png",
+				"selectedIconPath":"static/tab/my_select.png",
+				"text":"我的"
+			}
+		]
+	}
+}
