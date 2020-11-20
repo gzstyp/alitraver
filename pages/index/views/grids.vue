@@ -1,14 +1,12 @@
 <template>
-	<view>
-		<view style="margin: 0 20rpx;">
-			<view class="content">
-				<block v-for="(item,index) in tables" :key="index">
-					<view>
-						<text class="ticket">{{item.name}}</text>
-						<text class="lab">{{item.lable}}</text>
-					</view>
-				</block>
-			</view>
+	<view style="margin: 0 20rpx;">
+		<view class="content">
+			<block v-for="(item,index) in tables" :key="index">
+				<view>
+					<text class="ticket">{{item.name}}</text>
+					<text class="lab">{{item.lable}}</text>
+				</view>
+			</block>
 		</view>
 	</view>
 </template>
