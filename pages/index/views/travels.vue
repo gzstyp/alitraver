@@ -18,27 +18,27 @@
 					{
 						"kid":"10001",
 						"name":"机票",
-						"image":"../../static/images/icon/plane.svg",
+						"image":"/static/images/icon/plane.svg",
 					},
 					{
 						"kid":"10002",
 						"name":"酒店",
-						"image":"../../static/images/icon/hotel.svg",
+						"image":"/static/images/icon/hotel.svg",
 					},
 					{
 						"kid":"10003",
 						"name":"火车票",
-						"image":"../../static/images/icon/train_ticket.svg",
+						"image":"/static/images/icon/train_ticket.svg",
 					},
 					{
 						"kid":"10004",
 						"name":"汽车票",
-						"image":"../../static/images/icon/automobile.svg",
+						"image":"/static/images/icon/automobile.svg",
 					},
 					{
 						"kid":"10005",
 						"name":"门票",
-						"image":"../../static/images/icon/tickets.svg",
+						"image":"/static/images/icon/tickets.svg",
 					}
 				]
 			}

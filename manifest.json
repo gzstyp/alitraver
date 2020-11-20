@@ -50,7 +50,17 @@
             /* ios打包配置 */
             "ios" : {},
             /* SDK配置 */
-            "sdkConfigs" : {}
+            "sdkConfigs" : {
+                "ad" : {}
+            },
+            "icons" : {
+                "android" : {
+                    "hdpi" : "E:/Images/SuCai/百度app的图片/addman_normal (2).png",
+                    "xhdpi" : "E:/Images/SuCai/百度app的图片/addman_normal.png",
+                    "xxhdpi" : "E:/Images/SuCai/百度app的图片/addman_normal.png",
+                    "xxxhdpi" : "E:/Images/SuCai/百度app的图片/addman_pressed.png"
+                }
+            }
         }
     },
     /* 快应用特有相关 */

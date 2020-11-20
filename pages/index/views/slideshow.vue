@@ -27,17 +27,17 @@
 					{
 						"kid" : "100001",
 						"name" : "banner1",
-						"image" : "../../static/banner/banner1.png"
+						"image" : "/static/banner/banner1.png"
 					},
 					{
 						"kid" : "100002",
 						"name" : "banner2",
-						"image" : "../../static/banner/banner2.png"
+						"image" : "/static/banner/banner2.png"
 					},
 					{
 						"kid" : "100003",
 						"name" : "banner3",
-						"image" : "../../static/banner/banner3.png"
+						"image" : "/static/banner/banner3.png"
 					}
 				]
 			}
